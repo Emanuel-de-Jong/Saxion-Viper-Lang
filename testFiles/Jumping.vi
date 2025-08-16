@@ -1,0 +1,13 @@
+if (4 >> 1 == 4/2) {
+    System.out.println("bitshift worked");
+} else {
+    System.out.println("bitshift didn't work");
+}
+
+int x = 5;
+switch (x) {
+    case 2: {
+        System.out.println("2");
+    }
+    case 5: System.out.println("5");
+}

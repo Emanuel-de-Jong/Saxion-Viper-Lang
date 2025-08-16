@@ -1,0 +1,16 @@
+BestClass variable = new BestClass();
+System.out.println("value: " + variable.value);
+System.out.println("secret: " + variable.getSecret());
+
+class BestClass {
+    public int value;
+    private int secret;
+
+    public void init(int value) {
+        this.value = value;
+    }
+
+    public int getSecret() {
+        return this.secret;
+    }
+}
