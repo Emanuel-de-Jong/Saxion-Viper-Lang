@@ -8,4 +8,4 @@ A self made programming language and compiler using Java bytecode.
 
 | | |
 | :---: | :---: |
-| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
+| ![](/Screenshots/1-Steps_Graph.png) | ![](/Screenshots/.png) |
